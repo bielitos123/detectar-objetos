@@ -1,0 +1,31 @@
+
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+}
+
+body
+{
+    background-size: cover;
+}
+
+a:link, a:visited {
+    color: white;
+    text-decoration: underline;
+    cursor: auto;
+  }
+  
+  a:link:active, a:visited:active {
+    color: white;
+  }
+  
+  a {
+    font-size: 80px;
+    padding: 40px; 
+}
+
+.h1{
+    font-size: 20px;
+}
